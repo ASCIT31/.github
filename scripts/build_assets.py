@@ -119,7 +119,7 @@ def hero(dark):
 {fade(f'<g transform="translate({lx:.1f} {ly}) scale({sc:.4f})">{logomark(fg)}</g>', 0, 1.2)}
 {fade(T(MOMO, 'You just have to ask it.', 54, Wd/2, 300, fg, anchor='middle'), 0.5, 1)}
 {fade(T(INTER, 'Offensive cybersecurity  ·  Autonomous AI pentesting  ·  Software engineering', 18, Wd/2, 345, sub, ls=0.4, anchor='middle')
-      + T(MONO, 'TOULOUSE, FRANCE  —  SINCE 2021', 14, Wd/2, 382, GREEN if dark else GREEN_TXT_LIGHT, ls=1.2, anchor='middle'), 1, 1)}
+      + T(MONO, 'TOULOUSE, FRANCE  —  SINCE 2018', 14, Wd/2, 382, GREEN if dark else GREEN_TXT_LIGHT, ls=1.2, anchor='middle'), 1, 1)}
 {scan}<rect x="0.5" y="0.5" width="{Wd-1}" height="{H-1}" rx="18" fill="none" stroke="{GREEN}" stroke-opacity="{0.35 if dark else 0.5}"/></g></svg>'''
     write(f'hero-{"dark" if dark else "light"}.svg', svg)
 
