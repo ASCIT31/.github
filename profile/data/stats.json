@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-14",
+  "generated": "2026-09-15",
   "repos": {
     "Dark-Moon": {
-      "stars": 931,
-      "forks": 156,
+      "stars": 938,
+      "forks": 158,
       "watchers": 10,
       "description": "Autonomous AI pentesting engine across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof for every finding. Privacy gateway: the LLM never sees your real IPs, hosts or creds; nothing leaves your perimeter.",
       "language": "Python",
