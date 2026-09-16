@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-15",
+  "generated": "2026-09-16",
   "repos": {
     "Dark-Moon": {
-      "stars": 938,
+      "stars": 940,
       "forks": 158,
       "watchers": 10,
       "description": "Autonomous AI pentesting engine across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof for every finding. Privacy gateway: the LLM never sees your real IPs, hosts or creds; nothing leaves your perimeter.",
@@ -74,6 +74,6 @@
   },
   "org": {
     "followers": 24,
-    "public_repos": 7
+    "public_repos": 9
   }
 }
