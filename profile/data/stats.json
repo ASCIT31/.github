@@ -1,19 +1,19 @@
 {
-  "generated": "2026-09-21",
+  "generated": "2026-09-22",
   "repos": {
     "Dark-Moon": {
-      "stars": 955,
+      "stars": 960,
       "forks": 159,
       "watchers": 10,
-      "description": "Autonomous AI pentesting engine across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof for every finding. Privacy gateway: the LLM never sees your real IPs, hosts or creds; nothing leaves your perimeter.",
+      "description": "Open source autonomous AI penetration testing platform. 50+ specialist agents for AI security testing across web, API, cloud, Active Directory, Kubernetes, IoT firmware, CI/CD and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof, on a local LLM. Privacy Gateway keeps real IPs, hosts and credentials on your perimeter.",
       "language": "Python",
       "license": "GPL-3.0",
       "release": "v1.4.0",
       "release_date": "2026-09-07",
       "contributors": 11,
-      "commits": 200,
+      "commits": 204,
       "pushed_at": "2026-09-21",
-      "open_issues": 2
+      "open_issues": 3
     },
     "darkmoon-scan-action": {
       "stars": 1,
@@ -25,36 +25,36 @@
       "release": "v1",
       "release_date": "2026-09-06",
       "contributors": 1,
-      "commits": 1,
-      "pushed_at": "2026-09-12",
+      "commits": 7,
+      "pushed_at": "2026-09-21",
       "open_issues": 1
     },
     "Darkmoon-Benchmarks": {
       "stars": 0,
       "forks": 1,
       "watchers": 0,
-      "description": "Open, reproducible benchmark of autonomous AI pentesters on public vulnerable labs. Darkmoon: 57 real vulns on OWASP Juice Shop.",
+      "description": "Autonomous AI penetration testing benchmark: an honest AI security testing leaderboard of a local-first autonomous AI pentester across OWASP Juice Shop, cloud (AWS, Azure, GCP), infrastructure and IoTGoat labs. Every finding proven by exploit. Part of Darkmoon.",
       "language": "",
       "license": "",
       "release": "",
       "release_date": "",
       "contributors": 2,
-      "commits": 3,
-      "pushed_at": "2026-08-25",
+      "commits": 9,
+      "pushed_at": "2026-09-21",
       "open_issues": 0
     },
     "darkmoon-research": {
       "stars": 0,
       "forks": 0,
       "watchers": 0,
-      "description": "Evidence corpus: autonomous AI penetration testing across cloud, identity, CI/CD, IaC, data and IoT firmware \u2014 validated on public labs.",
+      "description": "Evidence corpus for autonomous AI penetration testing. AI security testing across cloud, identity, CI/CD, IaC, databases and IoT firmware, validated on public labs with real exploit proof.",
       "language": "HTML",
       "license": "",
       "release": "",
       "release_date": "",
       "contributors": 2,
-      "commits": 2,
-      "pushed_at": "2026-08-25",
+      "commits": 6,
+      "pushed_at": "2026-09-21",
       "open_issues": 0
     },
     "Dark-Moon-CI-Demo": {
@@ -74,6 +74,6 @@
   },
   "org": {
     "followers": 27,
-    "public_repos": 10
+    "public_repos": 12
   }
 }
