@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-23",
+  "generated": "2026-09-24",
   "repos": {
     "Dark-Moon": {
-      "stars": 963,
+      "stars": 967,
       "forks": 159,
       "watchers": 10,
       "description": "Open source autonomous AI penetration testing platform. 50+ specialist agents for AI security testing across web, API, cloud, Active Directory, Kubernetes, IoT firmware, CI/CD and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof, on a local LLM. Privacy Gateway keeps real IPs, hosts and credentials on your perimeter.",
@@ -11,8 +11,8 @@
       "release": "v1.4.0",
       "release_date": "2026-09-07",
       "contributors": 11,
-      "commits": 204,
-      "pushed_at": "2026-09-21",
+      "commits": 205,
+      "pushed_at": "2026-09-24",
       "open_issues": 3
     },
     "darkmoon-scan-action": {
