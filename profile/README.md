@@ -46,6 +46,11 @@
 
 Point Darkmoon at a target you are authorized to test. **50 specialist AI agents** reason, chain **real exploits** across web, APIs, Active Directory, Kubernetes, cloud (AWS, Azure, GCP), CI/CD, databases, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10), and return **proof for every finding**: the exact command, the raw output, reproducible. Self-hosted, GPLv3, and thanks to the **Privacy Gateway** the model only ever sees `IP_PRIVATE_001`, never your real IPs, hosts or credentials.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ASCIT31/.github/main/profile/assets/infra-orbital.gif" alt="Darkmoon orbital attack-surface map: an animated infrastructure graph with exposure rings, per-node vulnerability badges and the MITRE attack path racing from the internet-facing entry to the database" width="100%">
+</p>
+<p align="center"><sub><b>The orbital attack-surface map.</b> Every discovered node, its connections and per-node vulnerabilities, with the MITRE attack path walked across the whole target. In the browser, and over WebXR in a VR headset.</sub></p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
