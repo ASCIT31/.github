@@ -49,7 +49,7 @@ Point Darkmoon at a target you are authorized to test. **50 specialist AI agents
 <p align="center">
   <img src="https://raw.githubusercontent.com/ASCIT31/.github/main/profile/assets/infra-orbital.gif" alt="Darkmoon orbital attack-surface map: an animated infrastructure graph with exposure rings, per-node vulnerability badges and the MITRE attack path racing from the internet-facing entry to the database" width="100%">
 </p>
-<p align="center"><sub><b>The orbital attack-surface map.</b> Every discovered node, its connections and per-node vulnerabilities, with the MITRE attack path walked across the whole target. In the browser, and over WebXR in a VR headset.</sub></p>
+<p align="center"><sub><b>The orbital attack-surface map.</b> Every discovered node, its connections and per-node vulnerabilities, with the MITRE attack path walked across the whole target, and every finding linked to its proposed remediation pull request. In the browser, and over WebXR in a VR headset.</sub></p>
 
 <table>
 <tr>
