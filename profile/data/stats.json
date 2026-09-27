@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-26",
+  "generated": "2026-09-27",
   "repos": {
     "Dark-Moon": {
-      "stars": 970,
+      "stars": 972,
       "forks": 159,
       "watchers": 11,
       "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
@@ -11,9 +11,9 @@
       "release": "v1.5.0",
       "release_date": "2026-09-25",
       "contributors": 11,
-      "commits": 215,
-      "pushed_at": "2026-09-25",
-      "open_issues": 3
+      "commits": 220,
+      "pushed_at": "2026-09-27",
+      "open_issues": 2
     },
     "darkmoon-scan-action": {
       "stars": 1,
@@ -74,6 +74,6 @@
   },
   "org": {
     "followers": 27,
-    "public_repos": 22
+    "public_repos": 24
   }
 }
