@@ -14,7 +14,7 @@
 [![Docs](https://img.shields.io/badge/docs.dark--moon.org-documentation-0A2472?style=for-the-badge&logo=readthedocs&logoColor=DCEAF4&labelColor=0A2472&color=2667FF)](https://docs.dark-moon.org)
 [![LinkedIn](https://img.shields.io/badge/ASC--IT-LinkedIn-1D1D1B?style=for-the-badge&logo=linkedin&logoColor=00FF86&labelColor=1D1D1B&color=00FF86)](https://www.linkedin.com/company/asc-it)
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=900&color=00FF86&center=true&vCenter=true&repeat=true&width=900&height=42&lines=Proof%2C+not+scores.+Offensive+security+for+real+teams.;Darkmoon%3A+50+AI+agents%2C+one+autonomous+pentest.;100%25+on+your+infrastructure.+GPLv3.+Toulouse%2C+France." alt="Proof, not scores. Offensive security for real teams.">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=900&color=00FF86&center=true&vCenter=true&repeat=true&width=900&height=42&lines=Proof%2C+not+scores.+Offensive+security+for+real+teams.;Darkmoon%3A+50+AI+agents%2C+one+autonomous+pentest.;100%25+on+your+infrastructure.+AGPLv3.+Toulouse%2C+France." alt="Proof, not scores. Offensive security for real teams.">
 
 <br>
 
@@ -44,7 +44,7 @@
 
 </div>
 
-Point Darkmoon at a target you are authorized to test. **50 specialist AI agents** reason, chain **real exploits** across web, APIs, Active Directory, Kubernetes, cloud (AWS, Azure, GCP), CI/CD, databases, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10), and return **proof for every finding**: the exact command, the raw output, reproducible. Self-hosted, GPLv3, and thanks to the **Privacy Gateway** the model only ever sees `IP_PRIVATE_001`, never your real IPs, hosts or credentials.
+Point Darkmoon at a target you are authorized to test. **50 specialist AI agents** reason, chain **real exploits** across web, APIs, Active Directory, Kubernetes, cloud (AWS, Azure, GCP), CI/CD, databases, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10), and return **proof for every finding**: the exact command, the raw output, reproducible. Self-hosted, AGPLv3, and thanks to the **Privacy Gateway** the model only ever sees `IP_PRIVATE_001`, never your real IPs, hosts or credentials.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ASCIT31/.github/main/profile/assets/infra-orbital.gif" alt="Darkmoon orbital attack-surface map: an animated infrastructure graph with exposure rings, per-node vulnerability badges and the MITRE attack path racing from the internet-facing entry to the database" width="100%">
