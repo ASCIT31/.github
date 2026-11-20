@@ -50,9 +50,9 @@
 Point Darkmoon at a target you are authorized to test. **50 specialist AI agents** reason, chain **real exploits** across web, APIs, Active Directory, Kubernetes, cloud (AWS, Azure, GCP), CI/CD, databases, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10), and return **proof for every finding**: the exact command, the raw output, reproducible. Self-hosted, AGPLv3, and thanks to the **Privacy Gateway** the model only ever sees `IP_PRIVATE_001`, never your real IPs, hosts or credentials.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ASCIT31/.github/main/profile/assets/infra-orbital.png" alt="Darkmoon orbital attack-surface map: assets on Internet, Edge, Application and Data rings, an evidence-backed attack path from the choke point to the critical database, and the attack surface mapped briefing" width="100%">
+  <img src="https://raw.githubusercontent.com/ASCIT31/.github/main/profile/assets/infra-orbital.png" alt="Darkmoon Pro orbital 3D infrastructure map of an anonymised OWASP Juice Shop campaign: assets on Internet and Edge, Application and Data rings, the assets carrying findings labelled with their counts (the Juice Shop application with 47), and six inferred attack paths in the side rail" width="100%">
 </p>
-<p align="center"><sub><b>The orbital attack-surface map.</b> Every discovered asset on its exposure ring, its connections and per-asset findings, with evidence-backed attack paths, the choke point to break and the critical asset they reach, and every finding linked to its proposed remediation pull request. In the browser, and over WebXR in a VR headset.</sub></p>
+<p align="center"><sub><b>The orbital attack-surface map (Darkmoon Pro).</b> Every discovered asset on its exposure ring, its connections and per-asset findings, and the attack paths labelled by provenance (proven or inferred). Shown: an anonymised real OWASP Juice Shop campaign, 30 assets and 57 findings, on <a href="https://demo.dark-moon.org">demo.dark-moon.org</a>. In the browser, and over WebXR in a VR headset.</sub></p>
 
 <table>
 <tr>
