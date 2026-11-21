@@ -1,19 +1,19 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-21",
   "repos": {
     "Dark-Moon": {
-      "stars": 1275,
-      "forks": 222,
+      "stars": 1279,
+      "forks": 225,
       "watchers": 12,
-      "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
+      "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10), with an evidence-checked attack-path graph. Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
       "language": "Python",
       "license": "AGPL-3.0",
-      "release": "v1.6.0",
-      "release_date": "2026-10-25",
+      "release": "v1.7.0",
+      "release_date": "2026-11-20",
       "contributors": 13,
-      "commits": 263,
-      "pushed_at": "2026-11-20",
-      "open_issues": 8
+      "commits": 311,
+      "pushed_at": "2026-11-21",
+      "open_issues": 7
     },
     "darkmoon-scan-action": {
       "stars": 1,
@@ -21,12 +21,12 @@
       "watchers": 0,
       "description": "GitHub Action: run the open source Darkmoon autonomous pentest platform in CI (no license). 50 agents, 50+ tools, Privacy Gateway.",
       "language": "",
-      "license": "",
+      "license": "AGPL-3.0",
       "release": "v1",
       "release_date": "2026-09-06",
       "contributors": 1,
-      "commits": 9,
-      "pushed_at": "2026-11-19",
+      "commits": 11,
+      "pushed_at": "2026-11-20",
       "open_issues": 1
     },
     "Darkmoon-Benchmarks": {
@@ -35,12 +35,12 @@
       "watchers": 0,
       "description": "Autonomous AI penetration testing benchmark: an honest AI security testing leaderboard of a local-first autonomous AI pentester across OWASP Juice Shop, cloud (AWS, Azure, GCP), infrastructure and IoTGoat labs. Every finding proven by exploit. Part of Darkmoon.",
       "language": "HTML",
-      "license": "",
+      "license": "AGPL-3.0",
       "release": "",
       "release_date": "",
       "contributors": 3,
-      "commits": 21,
-      "pushed_at": "2026-11-19",
+      "commits": 24,
+      "pushed_at": "2026-11-20",
       "open_issues": 0
     },
     "darkmoon-research": {
@@ -49,12 +49,12 @@
       "watchers": 0,
       "description": "Evidence corpus for autonomous AI penetration testing. AI security testing across cloud, identity, CI/CD, IaC, databases and IoT firmware, validated on public labs with real exploit proof.",
       "language": "HTML",
-      "license": "",
+      "license": "AGPL-3.0",
       "release": "",
       "release_date": "",
       "contributors": 2,
-      "commits": 8,
-      "pushed_at": "2026-11-19",
+      "commits": 11,
+      "pushed_at": "2026-11-20",
       "open_issues": 0
     },
     "Dark-Moon-CI-Demo": {
@@ -63,17 +63,17 @@
       "watchers": 1,
       "description": "Darkmoon CI \u2014 Demo pentest pipeline",
       "language": "",
-      "license": "",
+      "license": "AGPL-3.0",
       "release": "",
       "release_date": "",
       "contributors": 2,
-      "commits": 7,
-      "pushed_at": "2026-09-07",
+      "commits": 8,
+      "pushed_at": "2026-11-20",
       "open_issues": 0
     }
   },
   "org": {
     "followers": 34,
-    "public_repos": 29
+    "public_repos": 33
   }
 }
